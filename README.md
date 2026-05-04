@@ -7,6 +7,7 @@ This adds a random pixel-art dashboard to LazyVim's `snacks.nvim` dashboard.
 ```sh
 git clone https://github.com/aerosmooth/doraemon-dashboard.git
 cd doraemon-dashboard
+chmod +x install.sh
 ./install.sh
 ```
 
